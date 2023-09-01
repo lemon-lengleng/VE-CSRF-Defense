@@ -20,4 +20,4 @@ VE-CSRF-Defense对一个浏览器扩展包进行安全修改，在不影响其�
 **得到结果**  
 你将会得到↓    
 如Auto_moded_Extensions/hnmjkpjfkgkjennckgjdmoikjbfkbfhc/hnmjkpjfkgkjennckgjdmoikjbfkbfhc.crx所示的浏览器扩展包文件（修改好后的安全的浏览器扩展包）。     
-安装浏览器扩展包即可使用该扩展。
+安装该浏览器扩展包即可使用该扩展。
