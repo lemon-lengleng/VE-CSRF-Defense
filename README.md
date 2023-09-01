@@ -18,6 +18,6 @@ VE-CSRF-Defense对一个浏览器扩展包进行安全修改，在不影响其�
 使用python运行src/Modify_extension.py代码文件。
 
 **得到结果**  
-你将会得到，  
+你将会得到↓ 
 如Auto_moded_Extensions/hnmjkpjfkgkjennckgjdmoikjbfkbfhc/hnmjkpjfkgkjennckgjdmoikjbfkbfhc.crx所示的浏览器扩展包文件，是修改好后的安全的浏览器扩展包。  
 安装浏览器扩展包即可使用该扩展。
